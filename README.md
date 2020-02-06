@@ -10,5 +10,8 @@ In addition to the “main window” of the game, there is a special field where
 
 The results of all games are recorded in a separate file and then you can see the statistics of wins on points.
 
+
+Update soon
+
 ### Program operation example
 ![Image alt](https://github.com/YuliaKUA/2D_Bubble_Shoot/blob/master/image/image0.gif)
