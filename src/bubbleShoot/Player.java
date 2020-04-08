@@ -3,7 +3,6 @@ package bubbleShoot;
 import java.awt.*;
 
 public class Player {
-
     //Fields
     private double x, y, dx, dy;
     private int radius;
