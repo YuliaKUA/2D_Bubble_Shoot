@@ -3,7 +3,7 @@ package bubbleShoot;
 import java.awt.*;
 
 public class Bullet {
-
+    
     private double x, y;
     private int radius, speed;
 
