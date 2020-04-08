@@ -49,7 +49,7 @@ public class Listeners implements KeyListener {
             Player.isFiring = false;
         }
     }
-
+    
     @Override
     public void keyTyped(KeyEvent e) {}
 }
