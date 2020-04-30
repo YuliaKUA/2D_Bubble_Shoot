@@ -143,4 +143,5 @@ public class Enemy {
         g.drawOval((int)(x - radius), (int)(y - radius),2 * radius, 2 * radius);
         g.setStroke(new BasicStroke(1));
     }
+    
 }
